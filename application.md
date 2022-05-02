@@ -1,7 +1,7 @@
 # Radicle Grant Application
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
+
 > See the [Grants Program Process](https://github.com/radicle-dev/radicle-grants#process) on how to submit a proposal.
 
 - **Project Name:** Drips funding developer package
@@ -56,7 +56,7 @@ If anyone on your team has applied for a grant at Radicle or elsewhere, please s
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>
+- https://github.com/normadn/sleeplessDAO
 - https://github.com/<your_organisation>/<project_1>
 - https://github.com/<your_organisation>/<project_2>
 
