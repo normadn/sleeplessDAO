@@ -73,13 +73,13 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Project Description :page_facing_up:
 
-Please describe why you are applying for this grant.
-
 ## Deliverables :nut_and_bolt:
 
-Our objective is to extend the Drips Network usage by providing developer tools. We will start by extending the Radicle CLI to enable developers to create Drips directly from their Radicle projects.
-A first deliverable will consist of extending the Radicle CLI by developing the method to create a Drip directly from the CLI.
-A second deliverable will consist of creating the NPM packages SDK tutorial, for facilitating first-hand adoption.
+Our objective is to extend the Drips Network usage by providing developer tools.
+We will start by extending the Radicle CLI to enable developers to create Drips directly from their Radicle projects.
+- A first deliverable will consist of extending the Radicle CLI by developing the method to create a Drip directly from the CLI.
+- A second deliverable will consist of creating the NPM packages SDK tutorial, for facilitating first-hand adoption.
+
 See the next steps section for our vision regarding further plans.
 
 - **Total Estimated Duration:** Duration of the whole project
