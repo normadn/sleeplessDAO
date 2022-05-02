@@ -4,7 +4,7 @@
 >
 > See the [Grants Program Process](https://github.com/radicle-dev/radicle-grants#process) on how to submit a proposal.
 
-- **Project Name:** Drips developer package
+- **Project Name:** Drips funding developer package
 - **Team Name:** Sleepless DAO
 - **Payment Address:** TBC
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
@@ -15,16 +15,14 @@
 
 # This is some new text
 
-If this is an application for retroactive funding (i.e. work that is completed and committed into a codebase), please drop any related PRs in this section.
-
 ### Overview
 
 Please provide the following:
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Radicle.
-- An indication of why your team is interested in creating this project.
+- Developer tooling for facilitating project funding via Drips
+- Enabling developers to get funding for their projects via the Drips Network through a series of developer tools integrations: CLI extensions (NPM packages), SDK tutorials, and potential for further integrations (such EPNS, for closing the loop)
+- We would further increase the reach and usage of Drips Network, starting with extending the Radicle CLI
+- After winning the Radicle sponsor prize at ETH Global hackathon, we've been discussing potential for further development with some Drips team members. Seeing the interest from both sides, we've decided to evaluate such grant opportunities to pursue our project further.
 
 ## Team :busts_in_silhouette:
 
@@ -32,11 +30,13 @@ Please provide the following:
 
 - Norman Saade
 - James de Wasseige
+- Luca Donno
+- Kriztian 
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. person@dev.com)
+- **Contact Name:** Norman Saade
+- **Contact Email:** norman.saade@gmail.com
 - **Website:**
 
 ### Legal Structure
@@ -62,8 +62,9 @@ If anyone on your team has applied for a grant at Radicle or elsewhere, please s
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects/repos hosted elsewhere are also fine.
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/normadn
+- https://github.com/lucadonnoh
+- https://github.com/Riki0923
 
 ### Team LinkedIn Profiles (if available)
 
@@ -76,7 +77,10 @@ Please describe why you are applying for this grant.
 
 ## Deliverables :nut_and_bolt:
 
-Please list the deliverables of the project in as much detail as possible. Please also estimate the amount of work required and try to divide the project into meaningful milestones.
+Our objective is to extend the Drips Network usage by providing developer tools. We will start by extending the Radicle CLI to enable developers to create Drips directly from their Radicle projects.
+A first deliverable will consist of extending the Radicle CLI by developing the method to create a Drip directly from the CLI.
+A second deliverable will consist of creating the NPM packages SDK tutorial, for facilitating first-hand adoption.
+See the next steps section for our vision regarding further plans.
 
 - **Total Estimated Duration:** Duration of the whole project
 - **Full-time equivalent (FTE):** Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
@@ -114,10 +118,10 @@ Please add additional milestones in the same way:
 
 Please include the following:
 
-- How you intend to use, enhance, promote and support your project in the short term
-- The team's long-term plans and intentions in relation to it. In other words, how will it be made sustainable?
+- After having successfully built the first Drip CLI extension (Radicle CLI), we'll look at extending other CLI environments
+- A concrete next step that we would like to pursue after this first grant will be to integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ETH Global hackathon, this seems a relevant next step for us.
+- Part of our initial grant scope is to help developers with some tutorials to ensure their succesful onboarding. We intend to keep a close eye on this to make sure our initial CLI extension scope will be useful for developers. We could add some work streams regarding such adoption.
 
->️ ❗*This is a good place to share how you might like to get more grant funding for future work*
 
 ## Additional Information :heavy_plus_sign:
 
