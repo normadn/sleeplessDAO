@@ -31,8 +31,8 @@ Please provide the following:
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Norman Saade
+- James de Wasseige
 
 ### Contact
 
