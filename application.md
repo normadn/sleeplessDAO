@@ -4,16 +4,15 @@
 >
 > See the [Grants Program Process](https://github.com/radicle-dev/radicle-grants#process) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DevDAO Module)
-- **Team Name:** Legal/Proper name of your team (e.g. Developer DAO)
-- **Payment Address:** Ethereum (USDC) 
-- **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed or 🌲-Tree
+- **Project Name:** Drips developer package
+- **Team Name:** Sleepless DAO
+- **Payment Address:** TBC
+- **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
 # This is some new text
 
 If this is an application for retroactive funding (i.e. work that is completed and committed into a codebase), please drop any related PRs in this section.
